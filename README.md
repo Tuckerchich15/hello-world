@@ -1,10 +1,6 @@
-hello-world
-easy Hello World Output program
+hello-world(java)
+easy Hello World Output program 
 
-/*
-Easy Hello World Program
-Fredy Chavez Lezama
- */
 import java.util.*;
 public class Main {
 
